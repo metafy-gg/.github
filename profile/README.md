@@ -1,12 +1,11 @@
-## Hi there 👋
+![](https://user-images.githubusercontent.com/36646/133833376-4d8b2dd9-6017-4f4d-9bb4-25c0c32ce477.jpg)
 
-<!--
+## We're hiring! 👋
 
-**Here are some ideas to get you started:**
+Interested in a career at Metafy? Check out our opportunities on [Metafy Careers](https://metafy.gg/careers)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+## Get in touch!
+
+🐦 [@TryMetafy](https://twitter.com/trymetafy)
+
+📧 [engineering@metafy.gg](mailto:engineering@metafy.gg)
