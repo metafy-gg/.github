@@ -2,7 +2,7 @@
 
 ## We're hiring! 👋
 
-Interested in a career at Metafy? Check out our opportunities on [Metafy Careers](https://metafy.gg/careers)
+Want to join us? Check out our opportunities at [Metafy Careers](https://metafy.gg/careers).
 
 ## Get in touch!
 
